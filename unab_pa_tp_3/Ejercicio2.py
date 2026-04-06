@@ -17,7 +17,7 @@ class Punto:
         nuevo = Punto(self.x * -1, self.y * -1)
         return nuevo
 
-=============== prueba
+# =============== prueba
 
   p1 = Punto(2, 3)
 
